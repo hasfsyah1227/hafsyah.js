@@ -1,0 +1,1 @@
+for(var i=0;i<=prices.length-1;i++){ prices[i]=prices[i]+increase; } console.log(prices);
